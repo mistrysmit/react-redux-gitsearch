@@ -1,0 +1,7 @@
+const Constant = {
+    CHANGE_MENU:"CHANGE_MENU",
+    CHANGE_SEARCHTEXT: "CHANGE_SEARCHTEXT",
+    SET_SEARCHDATA: "SET_SEARCHDATA"
+}
+
+export default Constant
